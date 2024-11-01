@@ -1,0 +1,10 @@
+{
+  "name": "voip-app-dev-helper",
+  "version": "1.0.0",
+  "description": "Development helper for VoIP app",
+  "main": "dev-helper.js",
+  "scripts": {
+    "dev": "node dev-helper.js"
+  },
+  "dependencies": {}
+}
